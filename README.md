@@ -1,6 +1,7 @@
 ### Hello there, my name is Kherzie Andal 👋
 
 ## I'm a Physics Student, Researcher, and Data Science & AI Enthusiast
+<hr>
 - 🔭 I’m currently finding data science related roles (especially internships)
 - 🌱 I’m currently learning different machine learning algorithms
 - 👯 I’m looking to collaborate on data science, game development, and startup challenges
@@ -9,12 +10,14 @@
 - 📫 How to reach me: send me an email to <a href="mailto: kherzieandal@gmail.com" target="_blank">kherzieandal@gmail.com</a>
 - ⚡ Fun fact: I ranked top 6% at <a href="https://www.kaggle.com/competitions/titanic/leaderboard" target="_blank">titanic</a> kaggle competition
 
-### 🤝 Connect with me:
+<br>
 
+### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/kherzieandal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Kherzie Andal | Kaggle"/></a>
 <a href="https://www.kaggle.com/kherzieandal"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white" alt="Kherzie Andal | Kaggle"/></a>
 
+<br>
 
 ### 🧑‍💻 Language and Tools:
 
@@ -42,6 +45,8 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 
+<br>
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kherzieandal"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kherzieandal&theme=dark"/>
 </p>
