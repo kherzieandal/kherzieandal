@@ -11,11 +11,11 @@
 - 📫 How to reach me: send me an email to <a href="mailto: kherzieandal@gmail.com" target="_blank">kherzieandal@gmail.com</a>
 - ⚡ Fun fact: I ranked top 6% at <a href="https://www.kaggle.com/competitions/titanic/leaderboard" target="_blank">titanic</a> kaggle competition
 
-## Researches
+## Research Papers
 
 | Field  | Title | Author(s) |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | ------------- |
+| Computational Physics & Statistical Physics | [https://proceedings.spp-online.org/article/view/SPP-2023-PA-06](Parallel Monte Carlo simulation of the 2D Ising model using CPU and mobile GPU) | Kherzie Andrei G. Andal & Rhenish C. Simon |
 
 ### 🤝 Connect with me:
 
