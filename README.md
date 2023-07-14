@@ -11,6 +11,11 @@
 - 📫 How to reach me: send me an email to <a href="mailto: kherzieandal@gmail.com" target="_blank">kherzieandal@gmail.com</a>
 - ⚡ Fun fact: I ranked top 6% at <a href="https://www.kaggle.com/competitions/titanic/leaderboard" target="_blank">titanic</a> kaggle competition
 
+## Researches
+
+| Field  | Title | Author(s) |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | ------------- |
 
 ### 🤝 Connect with me:
 
