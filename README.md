@@ -13,9 +13,9 @@
 
 ## Research Papers
 
-| Field  | Title | Author(s) |
-| ------------- | ------------- | ------------- |
-| Computational Physics & Statistical Physics | [Parallel Monte Carlo simulation of the 2D Ising model using CPU and mobile GPU](https://proceedings.spp-online.org/article/view/SPP-2023-PA-06) | Kherzie Andrei G. Andal & Rhenish C. Simon |
+| Year | Field  | Title | Author(s) |
+------------- | ------------- | ------------- | ------------- |
+| 2023 | Computational Physics & Statistical Physics | [Parallel Monte Carlo simulation of the 2D Ising model using CPU and mobile GPU](https://proceedings.spp-online.org/article/view/SPP-2023-PA-06) | Kherzie Andrei G. Andal & Rhenish C. Simon |
 
 ### 🤝 Connect with me:
 
