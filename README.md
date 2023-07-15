@@ -3,10 +3,10 @@
 ## I'm a Physics Student, Researcher, Data Science & AI Enthusiast
 <hr>
 
-- 🔭 I’m currently finding data science related roles (especially internships)
-- 🌱 I’m currently learning different machine learning algorithms
-- 👯 I’m looking to collaborate on data science, game development, and startup challenges
-- 🤔 I’m looking for help with data science ideas and research ideas
+- 🔭 I’m currently finishing my BS degree in Physics
+- 🌱 I’m currently conducting a research
+- 👯 I’m looking to collaborate on data science, research, game development, and startup challenges
+- 🤔 I’m looking for help with data science and research ideas
 - 💬 Ask me about anything!
 - 📫 How to reach me: send me an email to <a href="mailto: kherzieandal@gmail.com" target="_blank">kherzieandal@gmail.com</a>
 - ⚡ Fun fact: I ranked top 6% at <a href="https://www.kaggle.com/competitions/titanic/leaderboard" target="_blank">titanic</a> kaggle competition
