@@ -1,12 +1,10 @@
 ### Hello there, my name is Kherzie Andal 👋
 
-## I'm a Physics Student, Researcher, Data Science & AI Enthusiast
+## I'm a Data Analyst, Researcher, and AI Enthusiast
 <hr>
 
-- 🔭 I’m currently finishing my BS degree in Physics
-- 🌱 I’m currently conducting a research
-- 👯 I’m looking to collaborate on data science, research, game development, and startup challenges
-- 🤔 I’m looking for help with data science and research ideas
+- 🔭 I’m currently working as a corporate planning officer at Sanitary Care Products Asia, Inc.
+- 🤔 I’d like to conduct a research and willing to dicuss topics such as computing, data science, and AI.
 - 💬 Ask me about anything!
 - 📫 How to reach me: send me an email to <a href="mailto: kherzieandal@gmail.com" target="_blank">kherzieandal@gmail.com</a>
 - ⚡ Fun fact: I ranked top 6% at <a href="https://www.kaggle.com/competitions/titanic/leaderboard" target="_blank">titanic</a> kaggle competition
