@@ -62,6 +62,4 @@
 
 <br>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kherzieandal&theme=default"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kherzieandal)](https://git.io/streak-stats)
