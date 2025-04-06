@@ -62,12 +62,12 @@
 
 <br>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kherzieandal&layout=compact"/>
-</p>
 
-<br>
+<a href="#">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kherzieandal&size_weight=0.5&count_weight=0.5&langs_count=6" />
+</a>
+<a href="#">
+<img height=200 align="center" src="https://streak-stats.demolab.com?user=kherzieandal" alt="GitHub Streak" />
+</a>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=kherzieandal" alt="GitHub Streak" />
-</p>
+
