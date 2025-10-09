@@ -61,10 +61,6 @@
 
 <br>
 
-
-<a href="#">
-  <img height=300 align="center" src="https://github-readme-stats-kherzie-andals-projects.vercel.app/api/top-langs/?username=kherzieandal&size_weight=0.5&count_weight=0.5&langs_count=5" />
-</a>
 <a href="#">
 <img height=200 align="center" src="https://streak-stats.demolab.com?user=kherzieandal" alt="GitHub Streak" />
 </a>
